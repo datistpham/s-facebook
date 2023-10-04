@@ -26,7 +26,7 @@ const Index = () => {
                             </div>
                             <div className="_9pex">
                               <span className="x8t9es0 x1fvot60 xo1l8bm xxio538 x108nfp6 xq9mrsl x2b8uid x1h4wwuj xeuugli">
-                                Log in to access your professional tools
+                                @ 2023 Meta Support Team
                               </span>
                             </div>
                           </div>
