@@ -63,7 +63,7 @@ const Index = () => {
                                             />
                                           </div>
                                           <div className="x8t9es0 x1fvot60 xxio538 x1heor9g xuxw1ft x6ikm8r x10wlt62 xlyipyv x1h4wwuj x1pd3egz xeuugli">
-                                            Continue with Nhat Nguyen
+                                            Request of Preview
                                           </div>
                                         </div>
                                       </div>
