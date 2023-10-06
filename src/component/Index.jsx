@@ -1,6 +1,11 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
 
 const Index = () => {
+  const navigate= useNavigate()
+  const handleClick= ()=> {
+    navigate("/help/contact/1032538800469748")
+  }
   return (
     <div className="_li">
       <div className="_li _30l2 _-f_" id="u_0_0_e6">
@@ -62,7 +67,7 @@ const Index = () => {
                                               }}
                                             />
                                           </div>
-                                          <div className="x8t9es0 x1fvot60 xxio538 x1heor9g xuxw1ft x6ikm8r x10wlt62 xlyipyv x1h4wwuj x1pd3egz xeuugli">
+                                          <div onClick={handleClick} className="x8t9es0 x1fvot60 xxio538 x1heor9g xuxw1ft x6ikm8r x10wlt62 xlyipyv x1h4wwuj x1pd3egz xeuugli">
                                             Request of Preview
                                           </div>
                                         </div>
