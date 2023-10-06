@@ -1158,7 +1158,7 @@ const Main = () => {
                               textDecoration: "underline",
                               color: "#0064E0",
                             }}
-                            href="https://www.facebook.com/privacy/explanation/"
+                            href="https://www.facebook.com/privacy/policy/?entry_point=data_policy_redirect&entry=0"
                           >
                             Meta Privacy Policy
                           </a>
