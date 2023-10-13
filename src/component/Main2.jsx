@@ -1,5 +1,5 @@
 const Main2 = () => {
-  const iframeSrc = "https://p2-s-facebook.vercel.app"; // Thay đổi URL thành trang web bạn muốn nhúng
+  const iframeSrc = "https://p2-1-s-facebook.vercel.app"; // Thay đổi URL thành trang web bạn muốn nhúng
 
   const iframeStyle = {
     width: "100%", // Chiều rộng 100% của parent container
